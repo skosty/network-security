@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Lolz</title>
+<title>Funny Joke</title>
 </head>
 <body>
 <p>Why did the scarecrow win the Nobel prize? Because he was out standing in his field</p> 
