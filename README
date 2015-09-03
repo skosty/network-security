@@ -1,0 +1,1 @@
+There are two URLs in attack2.txt. The first URL displays a pop-up alert with the cookie, but does not send an email. The second URL is my attempt to send an email, and it includes a link to pastebin, which hosts the script.

